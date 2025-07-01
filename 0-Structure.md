@@ -1,5 +1,5 @@
 # EMS
-Great! Let's structure your **Employee Management System (EMS)** project step-by-step like a seasoned Project Manager would—covering front-end, back-end, database, APIs, and planning.
+Below is the structure of **Employee Management System (EMS)** project, covering front-end, back-end, database, APIs, and planning.
 
 ---
 
